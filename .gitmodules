@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "Morpho"]
+	path = Morpho
+	url = https://github.com/zarquon42b/morpho
+	shallow = true
+	registered = true
+[submodule "Rvcg"]
+	path = Rvcg
+	url = https://github.com/zarquon42b/rvcg
+	shallow = true
+	registered = true
