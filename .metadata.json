@@ -1,10 +1,10 @@
 [
   {
-    "package": "Morpho",
+    "package": "Rvcg",
     "oncran": true
   },
   {
-    "package": "Rvcg",
+    "package": "Morpho",
     "oncran": true
   }
 ]
